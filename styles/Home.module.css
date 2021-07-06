@@ -114,6 +114,12 @@
   height: 1em;
 }
 
+.image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
